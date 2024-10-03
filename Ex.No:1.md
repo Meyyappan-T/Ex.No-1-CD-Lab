@@ -1,16 +1,16 @@
-Ex. No : 1
+# Ex. No : 1
 
-IMPLEMENTATION OF SYMBOL TABLE
+## IMPLEMENTATION OF SYMBOL TABLE
 
-Register Number :212223240086
+### Register Number :212223240086
 
-Date :26-09-2024
+### Date :26-09-2024
 
-AIM:
+## AIM:
 
 To write a C program to implement a symbol table.
 
-ALGORITHM:
+## ALGORITHM:
 
 1. Start the program.
 2. Get the input from the user with the terminating symbol ‘$’.
@@ -22,7 +22,7 @@ ALGORITHM:
    variable along with its address is displayed as result.
 8. Stop the program.
    
-PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -85,12 +85,12 @@ int main() {
     return 0;
     }
 ```
-OUTPUT:
+## OUTPUT:
 <br>
 ![image](https://github.com/user-attachments/assets/5e898e75-69bb-45f2-b531-faa883b1cff4)
 <br>
 
 
-RESULT:
+## RESULT:
 
 The program to implement a symbol table is executed and the output is verified.

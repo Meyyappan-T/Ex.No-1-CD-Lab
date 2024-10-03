@@ -1,5 +1,4 @@
 # Ex. No : 1
-<br><br>
 ## IMPLEMENTATION OF SYMBOL TABLE
 
 Register Number :212223240086

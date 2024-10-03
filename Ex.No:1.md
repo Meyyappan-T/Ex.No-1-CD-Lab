@@ -86,9 +86,8 @@ int main() {
     }
 ```
 ## OUTPUT:
-<br>
 ![image](https://github.com/user-attachments/assets/5e898e75-69bb-45f2-b531-faa883b1cff4)
-<br>
+
 
 
 ## RESULT:
